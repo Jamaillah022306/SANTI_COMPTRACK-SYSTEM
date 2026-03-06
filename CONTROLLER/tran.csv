@@ -1,0 +1,134 @@
+﻿Transaction ID,Date & Time,Item,Type,Quantity,Stock,User
+133,"february 28, 2026 [10:28pm]",Cooler Master MB311L,STOCK IN,5,7,Germaine Joy Incinda
+132,"february 27, 2026 [10:14pm]",Intel Core i9-12900K,STOCK OUT,3,1,Germaine Joy Incinda
+131,"february 27, 2026 [10:13pm]",Phanteks P300A Mesh,STOCK OUT,4,3,Germaine Joy Incinda
+130,"february 27, 2026 [10:09pm]",Cooler Master MB311L,STOCK OUT,3,7,Germaine Joy Incinda
+129,"february 27, 2026 [10:09pm]",Cooler Master MB311L,STOCK OUT,11,7,Germaine Joy Incinda
+128,"february 27, 2026 [10:04pm]",Kingston 16GB DDR4 3200MHz,STOCK OUT,10,0,Germaine Joy Incinda
+127,"february 27, 2026 [10:04pm]",Kingston 16GB DDR4 3200MHz,STOCK OUT,15,0,Germaine Joy Incinda
+1,"february 27, 2026 [09:45pm]",Cooler Master MB311L,STOCK IN,10,7,Germaine Joy Incinda
+126,"december 28, 2025 [02:00pm]",HyperX Fury 16GB DDR5,STOCK OUT,6,20,Germaine Joy Incinda
+125,"december 18, 2025 [09:00am]",Kingston A2000 1TB NVMe,STOCK IN,20,15,Germaine Joy Incinda
+124,"december 15, 2025 [11:30am]",Samsung 970 EVO 500GB NVMe,STOCK OUT,5,20,Germaine Joy Incinda
+123,"december 10, 2025 [10:00am]",G.Skill Ripjaws 32GB DDR4,STOCK OUT,8,15,Germaine Joy Incinda
+122,"december 02, 2025 [08:30am]",Western Digital 2TB HDD,STOCK IN,15,25,Germaine Joy Incinda
+121,"november 28, 2025 [02:00pm]",Seagate 1TB HDD 7200RPM,STOCK OUT,3,30,Germaine Joy Incinda
+120,"november 22, 2025 [01:00pm]",Corsair Vengeance 8GB DDR4,STOCK OUT,6,30,Germaine Joy Incinda
+119,"november 16, 2025 [09:00am]",NVIDIA RTX 4060 8GB,STOCK IN,12,6,Germaine Joy Incinda
+118,"november 10, 2025 [10:30am]",AMD RX 6700 XT 12GB,STOCK OUT,4,4,Germaine Joy Incinda
+117,"november 04, 2025 [08:00am]",AMD RX 6600 8GB,STOCK IN,10,7,Germaine Joy Incinda
+116,"october 28, 2025 [03:00pm]",NVIDIA RTX 3070 8GB,STOCK OUT,5,5,Germaine Joy Incinda
+115,"october 22, 2025 [01:30pm]",Kingston 16GB DDR4 3200MHz,STOCK OUT,3,0,Germaine Joy Incinda
+114,"october 16, 2025 [09:00am]",NVIDIA RTX 3060 12GB,STOCK IN,8,8,Germaine Joy Incinda
+113,"october 10, 2025 [10:00am]",Cooler Master MB311L,STOCK OUT,4,7,Germaine Joy Incinda
+112,"october 04, 2025 [08:30am]",NZXT H510 Mid Tower,STOCK IN,15,5,Germaine Joy Incinda
+111,"september 28, 2025 [02:00pm]",Phanteks P300A Mesh,STOCK OUT,5,3,Germaine Joy Incinda
+110,"september 22, 2025 [01:00pm]",NVIDIA GTX 1650 4GB,STOCK OUT,3,10,Germaine Joy Incinda
+109,"september 16, 2025 [09:00am]",Tecware Nexus M MicroATX,STOCK IN,6,8,Germaine Joy Incinda
+108,"september 10, 2025 [10:30am]",Noctua NH-U12S CPU Cooler,STOCK OUT,4,6,Germaine Joy Incinda
+107,"september 03, 2025 [08:00am]",DeepCool GAMMAXX 400,STOCK IN,10,10,Germaine Joy Incinda
+106,"august 30, 2025 [03:00pm]",Cooler Master Hyper 212,STOCK OUT,3,12,Germaine Joy Incinda
+105,"august 25, 2025 [01:30pm]",Intel Core i9-12900K,STOCK OUT,4,1,Germaine Joy Incinda
+104,"august 18, 2025 [09:00am]",Cable Ties Pack 100pcs,STOCK IN,8,60,Germaine Joy Incinda
+103,"august 11, 2025 [10:00am]",Thermal Paste Arctic MX-4,STOCK OUT,5,40,Germaine Joy Incinda
+102,"august 04, 2025 [08:30am]",DisplayPort Cable 2m,STOCK IN,12,30,Germaine Joy Incinda
+101,"july 28, 2025 [02:00pm]",HDMI Cable 1.8m,STOCK OUT,2,50,Germaine Joy Incinda
+100,"july 21, 2025 [01:00pm]",AMD Ryzen 9 5900X,STOCK OUT,4,5,Germaine Joy Incinda
+99,"july 15, 2025 [09:00am]",Generic USB Hub 4-Port,STOCK IN,10,35,Germaine Joy Incinda
+98,"july 09, 2025 [10:30am]",Logitech G502 Gaming Mouse,STOCK OUT,3,20,Germaine Joy Incinda
+97,"july 03, 2025 [08:00am]",Redragon K552 Mech Keyboard,STOCK IN,8,15,Germaine Joy Incinda
+96,"june 28, 2025 [03:00pm]",Logitech MK270 Keyboard+Mouse,STOCK OUT,5,25,Germaine Joy Incinda
+95,"june 22, 2025 [09:00am]",AMD Ryzen 7 5800X,STOCK IN,10,8,Germaine Joy Incinda
+94,"june 16, 2025 [01:00pm]",Thermaltake Smart 500W,STOCK OUT,4,20,Germaine Joy Incinda
+93,"june 10, 2025 [10:00am]",Cooler Master MWE 750W,STOCK OUT,6,10,Germaine Joy Incinda
+92,"june 04, 2025 [08:30am]",EVGA 600W 80+ Bronze,STOCK IN,15,18,Germaine Joy Incinda
+91,"may 30, 2025 [02:00pm]",Seasonic Focus GX-650W,STOCK OUT,3,12,Germaine Joy Incinda
+90,"may 24, 2025 [01:00pm]",AMD Ryzen 5 5600X,STOCK OUT,5,12,Germaine Joy Incinda
+89,"may 18, 2025 [09:00am]",Corsair CV550 550W 80+,STOCK IN,10,15,Germaine Joy Incinda
+88,"may 12, 2025 [10:30am]",ASUS ROG Strix B550-F,STOCK OUT,4,6,Germaine Joy Incinda
+87,"may 05, 2025 [08:00am]",ASRock B550M Pro4,STOCK IN,8,9,Germaine Joy Incinda
+86,"april 28, 2025 [03:00pm]",Gigabyte B660M DS3H,STOCK OUT,2,8,Germaine Joy Incinda
+85,"april 20, 2025 [09:00am]",Intel Core i7-12700K,STOCK IN,12,10,Germaine Joy Incinda
+84,"april 14, 2025 [01:30pm]",MSI B450 Tomahawk MAX,STOCK OUT,5,10,Germaine Joy Incinda
+83,"april 08, 2025 [10:00am]",ASUS Prime B550M-A,STOCK OUT,3,12,Germaine Joy Incinda
+82,"april 02, 2025 [08:30am]",Seagate Barracuda 4TB HDD,STOCK IN,10,10,Germaine Joy Incinda
+81,"march 27, 2025 [02:00pm]",WD Blue 1TB SSD,STOCK OUT,4,18,Germaine Joy Incinda
+80,"march 20, 2025 [09:00am]",Intel Core i5-12400F,STOCK IN,8,15,Germaine Joy Incinda
+79,"march 14, 2025 [01:00pm]",Crucial MX500 500GB SSD,STOCK OUT,3,22,Germaine Joy Incinda
+78,"march 08, 2025 [10:30am]",Kingston A2000 1TB NVMe,STOCK OUT,5,15,Germaine Joy Incinda
+77,"march 03, 2025 [08:00am]",Samsung 970 EVO 500GB NVMe,STOCK IN,15,20,Germaine Joy Incinda
+76,"february 25, 2025 [11:00am]",Intel Core i3-12100F,STOCK OUT,6,18,Germaine Joy Incinda
+75,"february 20, 2025 [02:00pm]",Western Digital 2TB HDD,STOCK OUT,3,25,Germaine Joy Incinda
+74,"february 14, 2025 [09:00am]",Seagate 1TB HDD 7200RPM,STOCK IN,10,30,Germaine Joy Incinda
+73,"february 10, 2025 [10:00am]",NVIDIA RTX 4060 8GB,STOCK OUT,4,6,Germaine Joy Incinda
+72,"february 04, 2025 [08:30am]",AMD RX 6700 XT 12GB,STOCK IN,8,4,Germaine Joy Incinda
+71,"january 28, 2025 [03:00pm]",AMD RX 6600 8GB,STOCK OUT,5,7,Germaine Joy Incinda
+70,"january 20, 2025 [01:00pm]",Samsung 8GB DDR4 2666MHz,STOCK OUT,3,40,Germaine Joy Incinda
+69,"january 14, 2025 [09:00am]",NVIDIA RTX 3070 8GB,STOCK IN,12,5,Germaine Joy Incinda
+68,"january 08, 2025 [10:30am]",NVIDIA RTX 3060 12GB,STOCK OUT,4,8,Germaine Joy Incinda
+67,"january 03, 2025 [08:00am]",NVIDIA GTX 1650 4GB,STOCK IN,10,10,Germaine Joy Incinda
+66,"december 28, 2024 [02:00pm]",HyperX Fury 16GB DDR5,STOCK OUT,5,20,Germaine Joy Incinda
+65,"december 18, 2024 [09:00am]",Intel Core i9-12900K,STOCK IN,20,1,Germaine Joy Incinda
+64,"december 15, 2024 [11:30am]",G.Skill Ripjaws 32GB DDR4,STOCK OUT,10,15,Germaine Joy Incinda
+63,"december 10, 2024 [10:00am]",Corsair Vengeance 8GB DDR4,STOCK OUT,8,30,Germaine Joy Incinda
+62,"december 02, 2024 [08:00am]",Kingston 16GB DDR4 3200MHz,STOCK IN,15,0,Germaine Joy Incinda
+61,"november 25, 2024 [03:00pm]",AMD Ryzen 9 5900X,STOCK OUT,5,5,Germaine Joy Incinda
+60,"november 20, 2024 [01:00pm]",Cooler Master MB311L,STOCK OUT,2,7,Germaine Joy Incinda
+59,"november 15, 2024 [09:00am]",NZXT H510 Mid Tower,STOCK IN,10,5,Germaine Joy Incinda
+58,"november 10, 2024 [10:00am]",Phanteks P300A Mesh,STOCK OUT,3,3,Germaine Joy Incinda
+57,"november 04, 2024 [08:30am]",Tecware Nexus M MicroATX,STOCK IN,8,8,Germaine Joy Incinda
+56,"october 28, 2024 [02:00pm]",Noctua NH-U12S CPU Cooler,STOCK OUT,4,6,Germaine Joy Incinda
+55,"october 20, 2024 [09:00am]",AMD Ryzen 7 5800X,STOCK IN,6,8,Germaine Joy Incinda
+54,"october 15, 2024 [11:00am]",DeepCool GAMMAXX 400,STOCK OUT,3,10,Germaine Joy Incinda
+53,"october 08, 2024 [10:30am]",Cooler Master Hyper 212,STOCK OUT,5,12,Germaine Joy Incinda
+52,"october 02, 2024 [08:00am]",Cable Ties Pack 100pcs,STOCK IN,10,60,Germaine Joy Incinda
+51,"september 25, 2024 [08:30am]",AMD Ryzen 5 5600X,STOCK IN,8,12,Germaine Joy Incinda
+50,"september 20, 2024 [02:00pm]",Thermal Paste Arctic MX-4,STOCK OUT,2,40,Germaine Joy Incinda
+49,"september 14, 2024 [11:00am]",DisplayPort Cable 2m,STOCK OUT,4,30,Germaine Joy Incinda
+48,"september 08, 2024 [09:00am]",HDMI Cable 1.8m,STOCK IN,12,50,Germaine Joy Incinda
+47,"september 03, 2024 [10:00am]",Generic USB Hub 4-Port,STOCK OUT,5,35,Germaine Joy Incinda
+46,"august 28, 2024 [08:00am]",Intel Core i7-12700K,STOCK IN,10,10,Germaine Joy Incinda
+45,"august 20, 2024 [01:30pm]",Logitech G502 Gaming Mouse,STOCK OUT,3,20,Germaine Joy Incinda
+44,"august 15, 2024 [09:00am]",Redragon K552 Mech Keyboard,STOCK IN,8,15,Germaine Joy Incinda
+43,"august 10, 2024 [10:00am]",Logitech MK270 Keyboard+Mouse,STOCK OUT,4,25,Germaine Joy Incinda
+42,"august 05, 2024 [08:30am]",Thermaltake Smart 500W,STOCK IN,10,20,Germaine Joy Incinda
+41,"july 25, 2024 [11:00am]",Intel Core i5-12400F,STOCK OUT,5,15,Germaine Joy Incinda
+40,"july 18, 2024 [09:00am]",Cooler Master MWE 750W,STOCK IN,15,10,Germaine Joy Incinda
+39,"july 12, 2024 [02:00pm]",EVGA 600W 80+ Bronze,STOCK OUT,3,18,Germaine Joy Incinda
+38,"july 08, 2024 [10:00am]",Seasonic Focus GX-650W,STOCK OUT,6,12,Germaine Joy Incinda
+37,"july 02, 2024 [08:00am]",Corsair CV550 550W 80+,STOCK IN,20,15,Germaine Joy Incinda
+36,"june 25, 2024 [02:00pm]",Intel Core i3-12100F,STOCK OUT,4,18,Germaine Joy Incinda
+35,"june 20, 2024 [01:00pm]",ASUS ROG Strix B550-F,STOCK OUT,5,6,Germaine Joy Incinda
+34,"june 15, 2024 [08:00am]",ASRock B550M Pro4,STOCK IN,10,9,Germaine Joy Incinda
+33,"june 10, 2024 [10:30am]",Gigabyte B660M DS3H,STOCK OUT,3,8,Germaine Joy Incinda
+32,"june 04, 2024 [09:00am]",MSI B450 Tomahawk MAX,STOCK IN,8,10,Germaine Joy Incinda
+31,"may 28, 2024 [03:00pm]",Samsung 8GB DDR4 2666MHz,STOCK OUT,5,40,Germaine Joy Incinda
+30,"may 22, 2024 [08:30am]",ASUS Prime B550M-A,STOCK IN,10,12,Germaine Joy Incinda
+29,"may 18, 2024 [02:00pm]",Seagate Barracuda 4TB HDD,STOCK OUT,2,10,Germaine Joy Incinda
+28,"may 12, 2024 [11:30am]",WD Blue 1TB SSD,STOCK OUT,4,18,Germaine Joy Incinda
+27,"may 07, 2024 [09:00am]",Crucial MX500 500GB SSD,STOCK IN,15,22,Germaine Joy Incinda
+26,"may 03, 2024 [10:00am]",Kingston A2000 1TB NVMe,STOCK OUT,6,15,Germaine Joy Incinda
+25,"april 25, 2024 [08:00am]",Samsung 970 EVO 500GB NVMe,STOCK IN,12,20,Germaine Joy Incinda
+24,"april 20, 2024 [02:30pm]",Western Digital 2TB HDD,STOCK OUT,3,25,Germaine Joy Incinda
+23,"april 15, 2024 [01:00pm]",Seagate 1TB HDD 7200RPM,STOCK OUT,5,30,Germaine Joy Incinda
+22,"april 10, 2024 [09:00am]",NVIDIA RTX 4060 8GB,STOCK IN,10,6,Germaine Joy Incinda
+21,"april 08, 2024 [10:00am]",G.Skill Ripjaws 32GB DDR4,STOCK OUT,8,15,Germaine Joy Incinda
+20,"april 02, 2024 [08:30am]",Corsair Vengeance 8GB DDR4,STOCK IN,20,30,Germaine Joy Incinda
+19,"march 25, 2024 [04:00pm]",AMD RX 6700 XT 12GB,STOCK OUT,2,4,Germaine Joy Incinda
+18,"march 20, 2024 [02:00pm]",AMD RX 6600 8GB,STOCK OUT,4,7,Germaine Joy Incinda
+17,"march 15, 2024 [09:00am]",NVIDIA RTX 3070 8GB,STOCK IN,15,5,Germaine Joy Incinda
+16,"march 10, 2024 [11:30am]",NVIDIA RTX 3060 12GB,STOCK OUT,3,8,Germaine Joy Incinda
+15,"march 05, 2024 [10:00am]",NVIDIA GTX 1650 4GB,STOCK OUT,5,10,Germaine Joy Incinda
+14,"march 01, 2024 [08:00am]",Kingston 16GB DDR4 3200MHz,STOCK IN,10,0,Germaine Joy Incinda
+13,"february 25, 2024 [03:00pm]",Intel Core i9-12900K,STOCK OUT,2,1,Germaine Joy Incinda
+12,"february 20, 2024 [09:00am]",AMD Ryzen 9 5900X,STOCK IN,8,5,Germaine Joy Incinda
+11,"february 14, 2024 [01:00pm]",AMD Ryzen 7 5800X,STOCK OUT,3,8,Germaine Joy Incinda
+10,"february 10, 2024 [10:30am]",AMD Ryzen 5 5600X,STOCK OUT,5,12,Germaine Joy Incinda
+9,"february 03, 2024 [08:45am]",Intel Core i7-12700K,STOCK IN,12,10,Germaine Joy Incinda
+8,"february 03, 2024 [08:30am]",Intel Core i5-12400F,STOCK IN,10,15,Germaine Joy Incinda
+7,"january 20, 2024 [02:00pm]",Intel Core i3-12100F,STOCK OUT,3,18,Germaine Joy Incinda
+6,"january 15, 2024 [11:00am]",Samsung 8GB DDR4 2666MHz,STOCK OUT,8,40,Germaine Joy Incinda
+5,"january 10, 2024 [10:00am]",HyperX Fury 16GB DDR5,STOCK OUT,5,20,Germaine Joy Incinda
+4,"january 06, 2024 [09:45am]",G.Skill Ripjaws 32GB DDR4,STOCK IN,10,15,Germaine Joy Incinda
+3,"january 06, 2024 [09:30am]",Corsair Vengeance 8GB DDR4,STOCK IN,15,30,Germaine Joy Incinda
+2,"january 06, 2024 [09:15am]",Kingston 16GB DDR4 3200MHz,STOCK IN,20,0,Germaine Joy Incinda

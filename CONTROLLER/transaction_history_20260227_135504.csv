@@ -1,0 +1,17 @@
+Transaction ID,Date & Time,Item,Type,Quantity,Stock,User
+1,"february 10, 2026 07:25pm",Kingston 8GB DDR4 RAM,STOCK IN,10,15,Jamaillah Santi
+2,"february 26, 2026 11:09pm",Lenovo Ryzen 7 32GB 1TB,STOCK IN,5,35,Germaine Joy Incinda
+3,"february 26, 2026 11:10pm",HP Core i5 8GB 1TB,STOCK OUT,10,25,Germaine Joy Incinda
+4,"february 26, 2026 11:10pm",MSI Core i7 32GB 1TB,STOCK IN,5,15,Germaine Joy Incinda
+5,"february 26, 2026 11:12pm",Asus Ryzen 7 16GB 512GB,STOCK OUT,15,20,Germaine Joy Incinda
+6,"february 26, 2026 11:15pm",Dell Core i5 16GB 512GB ,STOCK IN,20,19,Germaine Joy Incinda
+7,"february 26, 2026 11:18pm",Acer Core i3 8GB 256GB,STOCK OUT,10,45,Germaine Joy Incinda
+8,"february 26, 2026 11:18pm",Lenovo Ryzen 7 32GB 1TB,STOCK IN,5,35,Germaine Joy Incinda
+9,"february 26, 2026 11:21pm",Asus Ryzen 7 16GB 512GB,STOCK IN,5,20,Germaine Joy Incinda
+10,"february 26, 2026 11:21pm",Dell Core i5 16GB 512GB ,STOCK OUT,10,19,Germaine Joy Incinda
+11,"february 26, 2026 11:25pm",Acer Core i3 8GB 256GB,STOCK IN,5,45,Germaine Joy Incinda
+12,"february 26, 2026 11:27pm",Lenovo Ryzen 7 32GB 1TB,STOCK IN,5,35,Germaine Joy Incinda
+13,"february 26, 2026 11:29pm","Core i5, 16GB RAM, 512GB",STOCK IN,5,24,Germaine Joy Incinda
+14,"february 26, 2026 11:30pm",Kingston 8GB DDR4 RAM,STOCK OUT,5,15,Germaine Joy Incinda
+15,"february 26, 2026 11:36pm",HP Core i5 8GB 1TB,STOCK IN,5,25,Germaine Joy Incinda
+16,"february 26, 2026 11:37pm","Core i5, 16GB RAM, 512GB",STOCK OUT,5,24,Germaine Joy Incinda
